@@ -211,3 +211,13 @@ main header nav ul li a:hover {
 #footer h4 a:hover {
     color: rgba(126, 252, 0, 0.8);
 }
+.time {
+    flex-basis: flex;
+}
+.time div {
+    flex-basis: 100px;
+}
+.time div p {
+    font-size: 60px;
+    margin-bottom: -14px;
+}
